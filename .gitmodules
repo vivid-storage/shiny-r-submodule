@@ -1,0 +1,3 @@
+[submodule "r-examples"]
+	path = r-examples
+	url = https://github.com/sol-eng/r-examples.git
